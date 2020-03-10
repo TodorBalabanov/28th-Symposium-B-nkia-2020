@@ -8,6 +8,11 @@
  <manifest:file-entry manifest:full-path="Configurations2/accelerator/current.xml" manifest:media-type=""/>
  <manifest:file-entry manifest:full-path="Configurations2/" manifest:media-type="application/vnd.sun.xml.ui.configuration"/>
  <manifest:file-entry manifest:full-path="content.xml" manifest:media-type="text/xml"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000201000003E800000258149C041718C7045D.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000201000000EC0000013A8346D43365A11019.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000201000000EC0000013AA7F34D4AB0A99A4A.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000201000001F4000000E3261795174A2A8D84.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000201000000EC0000013AF935C61F81CA3D07.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/10000201000003E8000000FAFFAE60DAED9192AB.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/10000201000003E80000028AF244D4AFBF326EC3.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/10000201000000EC0000013A831CD75398D21622.png" manifest:media-type="image/png"/>
